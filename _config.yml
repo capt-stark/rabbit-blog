@@ -1,11 +1,11 @@
 # Site title
-title: Crossing
+title: Mad Hatter
 
 # Tagline below the site title on post list pages
 tagline: Thoughts, stories and ideas.
 
 # A description of your site for social meta tag, search engines, and feed.xml
-description:
+description: Meow meow, meow meow!
 
 # The base hostname & protocol of your site for where absolute urls are needed
 url: "https://capt-stark.github.io"
@@ -14,7 +14,7 @@ url: "https://capt-stark.github.io"
 baseurl: "/rabbit-blog"
 
 # The site cover image on the home page
-image: /crossing-jekyll/images/site-image.jpg
+image: http://ghk.h-cdn.co/assets/16/09/980x490/landscape-1457107485-gettyimages-512366437.jpg
 
 # The shortname for your Disqus site to enable comments
 disqus_shortname:
@@ -42,7 +42,7 @@ footer_links:
 # Author information
 authors:
   johndoe:
-    name: John Doe
+    name: Capt-Stark
     website: https://github.com/barepants
     bio: An awesome bio # Author info at bottom of post only shows if bio exists
     avatar: /crossing-jekyll/images/avatar.jpg
